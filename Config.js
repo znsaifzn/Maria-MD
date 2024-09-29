@@ -2,27 +2,27 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernomer = "962781364247"
+global.ownername = "dazai"
+global.ytname = "YT: dazaiBot.inc"
+global.socialm = "GitHub: znsaifzn"
+global.location = "jordan"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.ownernumber = '962781364247'  //creator number
+global.ownername = 'dazai' //owner name
+global.botname = 'Dazai-bot' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '💙𓆩‎✘𝖉𝖆𝖟𝖆𝖎 𝖇𝖔𝖙✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'dazai Bot'
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
 
 //theme link
 global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
-global.support = 'https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8'
+global.support = 'https://wa.link/pwmfdh'
 //custom prefix
 global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
 
@@ -40,7 +40,7 @@ global.autoread_status = true //auto view status/story
 //reply messages
 global.mess = {
     done: 'Done !',
-    pm: ' 📍*sorry darling* Bot wont work in private darling📍 \n\n https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ',
+    pm: ' 📍*sorry darling* Bot wont work in private darling📍 \n\n https://wa.link/pwmfdh',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
